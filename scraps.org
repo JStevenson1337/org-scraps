@@ -1,6 +1,6 @@
 #+TITLE: Org-mode Scraps
 #+OPTIONS: num:nil ^:nil
-?#+STYLE: <link rel="stylesheet"href="data/stylesheet.css"type="text/css">
+#+STYLE: <link rel="stylesheet"href="data/stylesheet.css"type="text/css">
 #+AUTHOR: Forked by Jeremy Stevenson
 * scraps
   :PROPERTIES:
