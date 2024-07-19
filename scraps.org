@@ -1,8 +1,19 @@
 #+TITLE: Org-mode Scraps
 #+OPTIONS: num:nil ^:nil
 #+STYLE: <link rel="stylesheet"href="data/stylesheet.css"type="text/css">
-#+AUTHOR: Forked by Jeremy Stevenson
+<<<<<<< HEAD
 
+=======
+#+AUTHOR: Forked by Jeremy Stevenson
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> 1bc0f67 (Testing Magit)
+>>>>>>> f803ca1 (squash! Testing Magit)
+=======
+>>>>>>> 1bc0f67 (Testing Magit)
+>>>>>>> f803ca1 (squash! Testing Magit)
 * scraps
   :PROPERTIES:
   :ID:       96eaa17f-f1b6-4958-acb1-e271045fdfa2
